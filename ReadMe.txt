@@ -1,0 +1,1 @@
+Um Spiel zu beenden drücke Alt F4
